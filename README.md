@@ -1,4 +1,4 @@
-## Multivariate Analysis on World Happiness Report(2015)- Unsupervised Learning
+## Multivariate Analysis on World Happiness Report- Unsupervised Learning
 
 This project focuses on application of Multivariate Analysis techniques on World Happiness Report(2015) to create insights on 
 data, to discover structures and patterns in high-dimensional data, and to discover the latent variables behind a set of variables. 
