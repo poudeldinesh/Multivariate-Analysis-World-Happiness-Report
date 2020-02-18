@@ -24,4 +24,13 @@ It is very difficult to use aggregate data with countries as the unit of analysi
 happiness.
 
 #### Data Source: Kaggle.com
-#### Software : R
+
+#### Datasets:
+1. World Happiness Report(2015)
+
+
+#### Instruction to Run Code
+1. Download four Dataset 
+2. Value of variable “path” should be changed to location where all dataset is downloaded.
+3. Install and Load Packages:  
+4. Run the "Loan_Payback_Analysis_code" on Python IDE.
