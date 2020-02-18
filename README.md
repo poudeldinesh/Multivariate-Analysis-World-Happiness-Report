@@ -9,7 +9,7 @@ Multivariate techniques used:
 3. Cluster Analysis (Hierarchical, K-Means, Model-Based)
 4. Exploratory and Confirmatory Factor Analysis
 
-## Conclusion and Findings:
+## Findings:
 Based on our analysis, we can assume the data is a multinormal distribution. The happiness report
 can be explained by two principle components that represents overall reality of our data.
 Model-based clustering is the most precise clustering technique. Model-based clustering produced
@@ -29,7 +29,7 @@ happiness.
 1. World Happiness Report(2015)
 
 
-#### Instruction to Run Code
+#### Instruction to Run Code:
 1. Download Dataset: Happiness_Report_Data.csv
 2. Value of variable “path” should be changed to location where all dataset is downloaded.
 3. Install and Load Packages: corrplot, CCA, mclust, maptools, lavaan and semplot
