@@ -30,7 +30,7 @@ happiness.
 
 
 #### Instruction to Run Code
-1. Download four Dataset 
+1. Download Dataset: Happiness_Report_Data.csv
 2. Value of variable “path” should be changed to location where all dataset is downloaded.
-3. Install and Load Packages:  
-4. Run the "Loan_Payback_Analysis_code" on Python IDE.
+3. Install and Load Packages: corrplot, CCA, mclust, maptools, lavaan and semplot
+4. Run the "r_code" on R studio.
