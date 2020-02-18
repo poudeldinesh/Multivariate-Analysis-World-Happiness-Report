@@ -25,7 +25,7 @@ happiness.
 
 #### Data Source: Kaggle.com
 
-#### Datasets:
+#### Dataset:
 1. World Happiness Report(2015)
 
 
